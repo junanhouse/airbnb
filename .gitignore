@@ -1,4 +1,5 @@
-### Django ###
+/shelf/
+/workspace.xml
 *.log
 *.pot
 *.pyc
